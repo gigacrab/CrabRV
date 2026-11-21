@@ -1,5 +1,5 @@
-# crabRV
+# CrabRV
 
-Project Title: crabRV
+Project Title: CrabRV
 
 Team members: Bryan Teh
